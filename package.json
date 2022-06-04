@@ -7,6 +7,10 @@
     "name": "Ethan O'Brien",
     "url": "https://github.com/ethanaobrien"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Larrire/js-emulator-server.git"
+  },
   "engines": {
     "node": "0.10.x",
     "yarn": "1.22.5"

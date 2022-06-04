@@ -1,7 +1,7 @@
 {
   "name": "emuserver",
   "version": "0.10.0",
-  "main": "index.js",
+  "main": "./app/index.js",
   "description": "A Netplay Server For Emulatorjs",
   "author": {
     "name": "Ethan O'Brien",

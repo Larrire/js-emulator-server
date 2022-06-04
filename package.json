@@ -7,6 +7,10 @@
     "name": "Ethan O'Brien",
     "url": "https://github.com/ethanaobrien"
   },
+  "engines": {
+    "node": "0.10.x",
+    "yarn": "1.22.5"
+  },
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",

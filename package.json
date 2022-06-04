@@ -7,10 +7,6 @@
     "name": "Ethan O'Brien",
     "url": "https://github.com/ethanaobrien"
   },
-  "engines": {
-    "node": "^14.0.0",
-    "yarn": "1.22.5"
-  },
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
@@ -30,6 +26,7 @@
     "@electron-forge/plugin-webpack": "6.0.0-beta.53",
     "@electron-forge/publisher-github": "6.0.0-beta.52",
     "electron": "^13.3.0",
+    "electron-prebuilt-compile": "7.2.1",
     "electron-squirrel-startup": "^1.0.0",
     "electron-windows-store": "^2.1.0"
   },
